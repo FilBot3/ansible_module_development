@@ -41,6 +41,9 @@ These are the differentlocations that an Ansible Python Plugin can e placed.
 
 ## Modules
 
+Modules can be imported from Roles in your playbook.yml either first in line
+or by making it a dependency of the role you're using.
+
 ### Module Locations
 
 These are the different locaitons that an Ansible Python Module can be placed
