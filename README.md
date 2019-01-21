@@ -15,3 +15,4 @@ pages.
 ## References
 
 * [Ansible Dev: Getting Started](https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html)
+* [Ansible: Adding modules locally](https://docs.ansible.com/ansible/latest/dev_guide/developing_locally.html)
